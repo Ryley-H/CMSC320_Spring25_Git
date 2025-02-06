@@ -11,3 +11,10 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: Data Science can be applied to the field of Finance. For instance
         using data science one could take past information/trends of 
 	stocks and the stock market in order to predict future outcomes.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps track of the history between two branches, while
+	rebasing applies all the commits of a branch to another, leaving
+	one commit history. 
+
