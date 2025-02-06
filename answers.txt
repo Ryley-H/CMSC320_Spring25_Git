@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: Git makes collaboration for a team efficient and easy.
+	Members can all write and test their code before pushing	
+	to the rest of the team. Additionally, it is easy to revert
+	back to old versions of the code contained within Git. 
+
