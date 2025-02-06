@@ -18,3 +18,7 @@ Answer: Merging keeps track of the history between two branches, while
 	rebasing applies all the commits of a branch to another, leaving
 	one commit history. 
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning how to use data to predict 
+	future trends. 
